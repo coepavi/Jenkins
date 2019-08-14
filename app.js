@@ -5,7 +5,7 @@ var app = express();
 app.get('/getdata', function(req, res){
 	console.log("Jenkins @ ah06701")
 	console.log("India")
-	res.send("It is working : ")
+	res.send("India is great : ")
 })
 
 app.listen(8000);
