@@ -1,0 +1,19 @@
+{
+  "name": "avi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coepavi/Jenkins.git"
+  },
+  "author": "avi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coepavi/Jenkins/issues"
+  },
+  "homepage": "https://github.com/coepavi/Jenkins#readme"
+}
